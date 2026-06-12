@@ -1,0 +1,61 @@
+feedback_id,student_id,course_id,week,feedback_text,true_label
+1,11391,AAA,2,I couldn't access the lecture video with my screen reader. The player had no captions.,accessibility_issue
+2,28400,AAA,4,Great explanations in week 3. The examples really helped.,positive
+3,30268,AAA,1,The quiz closed before I could finish because the timer was too short.,technical_issue
+4,31604,AAA,5,Course content is clear but there is a lot to read each week.,content_quality
+5,32885,AAA,3,Moving too fast — we covered two chapters in one week.,pacing
+6,38053,BBB,2,The PDF readings are not tagged properly for assistive technology.,accessibility_issue
+7,45462,BBB,6,Really enjoyed the discussion activities. Well structured.,positive
+8,45642,BBB,4,Could not submit my assignment — upload button kept failing.,technical_issue
+9,52130,BBB,3,Some videos had poor audio quality and were hard to follow.,content_quality
+10,54076,BBB,2,Deadlines feel rushed with little time between TMAs.,pacing
+11,11391,AAA,7,Font contrast on the course homepage is too low for me to read.,accessibility_issue
+12,28400,AAA,8,Excellent tutor feedback on my first assignment.,positive
+13,30268,AAA,5,Platform logged me out during the exam and I lost my answers.,technical_issue
+14,31604,AAA,6,The module handbook is well organized and easy to navigate.,content_quality
+15,32885,AAA,4,Too many readings assigned for a single week.,pacing
+16,38053,BBB,1,Screen reader could not read the labels on the quiz questions.,accessibility_issue
+17,45462,BBB,9,Best online course I have taken so far. Very engaging.,positive
+18,45642,BBB,7,Website was down for maintenance during the due date.,technical_issue
+19,52130,BBB,5,Some content felt outdated compared to current industry practice.,content_quality
+20,54076,BBB,3,Would prefer more time between the midterm and final project.,pacing
+21,605939,GGG,2,No transcript available for the week 2 video lectures.,accessibility_issue
+22,588233,GGG,4,Clear and concise teaching. I understood the material quickly.,positive
+23,286527,EEE,1,My submission was marked late even though I uploaded on time.,technical_issue
+24,685705,FFF,6,The learning objectives for each week are very helpful.,content_quality
+25,680231,FFF,3,The pace picked up suddenly after week 4.,pacing
+26,682306,DDD,2,Keyboard navigation does not work on the forum page.,accessibility_issue
+27,540224,FFF,5,Thank you for the supportive tutor responses.,positive
+28,605939,GGG,7,Could not open the SCORM package in my browser.,technical_issue
+29,588233,GGG,8,Slides are dense but the summaries at the end help.,content_quality
+30,286527,EEE,4,Fall behind once and it is very hard to catch up.,pacing
+31,11391,AAA,9,Alt text missing on most images in the course materials.,accessibility_issue
+32,28400,AAA,10,Very satisfied with how the course is run.,positive
+33,30268,AAA,6,Error message when trying to access the library link.,technical_issue
+34,31604,AAA,7,Good balance of theory and practical exercises.,content_quality
+35,32885,AAA,5,Weekly workload is inconsistent — some weeks are overwhelming.,pacing
+36,38053,BBB,8,Video player controls are not reachable with keyboard only.,accessibility_issue
+37,45462,BBB,10,Outstanding course design. Would recommend to others.,positive
+38,45642,BBB,6,File upload limit was too small for my assignment.,technical_issue
+39,52130,BBB,9,Instructions for the final project were confusing.,content_quality
+40,54076,BBB,7,Need an extra week before the final assessment.,pacing
+41,605939,GGG,3,Color-only indicators used without text labels — inaccessible.,accessibility_issue
+42,588233,GGG,11,Really appreciate the optional extension activities.,positive
+43,286527,EEE,5,Mobile app crashes when opening week 5 resources.,technical_issue
+44,685705,FFF,8,Core concepts are explained well with good examples.,content_quality
+45,680231,FFF,4,First half was slow then everything was due at once.,pacing
+46,682306,DDD,6,Cannot enlarge text without breaking the page layout.,accessibility_issue
+47,540224,FFF,9,Positive learning experience overall.,positive
+48,605939,GGG,5,Discussion forum notifications never arrived.,technical_issue
+49,588233,GGG,7,Reading list is relevant and up to date.,content_quality
+50,286527,EEE,6,Would like slower progression in the early weeks.,pacing
+51,11391,AAA,4,Automated captions are inaccurate and unusable for deaf students.,accessibility_issue
+52,28400,AAA,3,Module team responds quickly to questions.,positive
+53,30268,AAA,8,VLE timed out while I was completing the quiz.,technical_issue
+54,31604,AAA,9,Assessment criteria are clearly explained.,content_quality
+55,32885,AAA,7,Too much new material introduced in week 7.,pacing
+56,38053,BBB,4,Download links for audio files return a 404 error.,technical_issue
+57,45462,BBB,3,Love the interactive diagrams in this module.,positive
+58,45642,BBB,8,Some external links in the bibliography are broken.,technical_issue
+59,52130,BBB,6,Content difficulty jumps sharply in the second half.,pacing
+60,54076,BBB,5,High contrast mode is not supported on the course site.,accessibility_issue

@@ -1,0 +1,49 @@
+rank,feature,feature_label,mean_abs_shap
+1,early_clicks,Early Clicks,0.0483486113461541
+2,early_active_days,Early Active Days,0.0456865712435848
+3,early_unique_resources,Early Unique Resources,0.0288235196154086
+4,highest_education_Lower Than A Level,Highest Education Lower Than A Level,0.0265820348022362
+5,early_submit_mean_score,Early Submit Mean Score,0.0259183577702011
+6,studied_credits,Studied Credits,0.0259104550180614
+7,early_mean_score,Early Mean Score,0.0242101869561217
+8,days_since_last_login,Days Since Last Login,0.0213056249911442
+9,early_submissions,Early Submissions,0.0203509597617452
+10,early_n_assessments,Early N Assessments,0.0181671000504545
+11,vle_diversity,Vle Diversity,0.0180443320126135
+12,num_of_prev_attempts,Num Of Prev Attempts,0.0111424206962059
+13,highest_education_A Level or Equivalent,Highest Education A Level Or Equivalent,0.0103789352490333
+14,early_late_count,Early Late Count,0.009959333344209
+15,gender_M,Gender M,0.0090329566457142
+16,gender_F,Gender F,0.0084072015664461
+17,imd_band_0-10%,Imd Band 0-10%,0.0052998973420919
+18,highest_education_HE Qualification,Highest Education He Qualification,0.00411859566861
+19,imd_band_10-20,Imd Band 10-20,0.0037214500304748
+20,age_band_0-35,Age Band 0-35,0.0031491211549629
+21,age_band_35-55,Age Band 35-55,0.0028515218326011
+22,imd_band_90-100%,Imd Band 90-100%,0.0027601567288306
+23,disability_N,Disability N,0.0027312373464084
+24,imd_band_20-30%,Imd Band 20-30%,0.0026548216896086
+25,disability_Y,Disability Y,0.0025418937040924
+26,imd_band_80-90%,Imd Band 80-90%,0.0017398332550911
+27,imd_band_nan,Imd Band Nan,0.0017032175315083
+28,region_South Region,Region South Region,0.0013690735968736
+29,region_North Western Region,Region North Western Region,0.0013124582117706
+30,region_Wales,Region Wales,0.0011206098218328
+31,imd_band_70-80%,Imd Band 70-80%,0.0010225359339876
+32,region_Scotland,Region Scotland,0.000948897149165
+33,region_East Anglian Region,Region East Anglian Region,0.0009478953943827
+34,region_South East Region,Region South East Region,0.0009429066782979
+35,imd_band_60-70%,Imd Band 60-70%,0.000849261971431
+36,region_West Midlands Region,Region West Midlands Region,0.0006972913748221
+37,region_North Region,Region North Region,0.0006375718456907
+38,region_London Region,Region London Region,0.0006095827713782
+39,region_South West Region,Region South West Region,0.0005882848180606
+40,highest_education_No Formal quals,Highest Education No Formal Quals,0.0005663388752576
+41,imd_band_50-60%,Imd Band 50-60%,0.0005551081768591
+42,region_East Midlands Region,Region East Midlands Region,0.0004652764945113
+43,imd_band_40-50%,Imd Band 40-50%,0.000425855527311
+44,imd_band_30-40%,Imd Band 30-40%,0.000422247814643
+45,region_Yorkshire Region,Region Yorkshire Region,0.0003860431928534
+46,region_Ireland,Region Ireland,0.0002843592144764
+47,highest_education_Post Graduate Qualification,Highest Education Post Graduate Qualification,0.0002019155449271
+48,age_band_55<=,Age Band 55<=,9.813577953456764e-05

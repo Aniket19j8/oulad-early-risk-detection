@@ -1,0 +1,29 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# OULAD raw CSVs (large) — keep synthetic demo feedback in repo
+data/raw/*.csv
+!data/raw/synthetic_feedback.csv
+
+# Processed data (optional — uncomment to ignore large outputs)
+# data/processed/*.csv
+# data/processed/*.parquet
+
+# Model artifacts
+models/*.pkl
+models/*.joblib
+models/*.json
+
+# Ad-hoc screenshots / local images in outputs
+outputs/*.png
+outputs/*.jpg
+
+# OS
+.DS_Store
+Thumbs.db
