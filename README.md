@@ -6,6 +6,8 @@ This started as a portfolio piece aligned with how online learning teams actuall
 
 **Live dashboard:** [Student Risk & Accessibility Dashboard on Tableau Public](https://public.tableau.com/app/profile/aniket.d6701/viz/OULADEarlyRiskAccessibility/StudentRiskAccessibilityDashboard)
 
+**Deployed Link:** (https://oulad-early-risk-detection-crdu25wslmdjs6xhyqpsaq.streamlit.app/)
+
 ---
 
 ## What this project does
