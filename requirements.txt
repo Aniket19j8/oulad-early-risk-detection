@@ -11,3 +11,7 @@ jupyter>=1.0
 transformers>=4.36
 torch>=2.0
 spacy>=3.7
+
+# Intervention simulator (app/streamlit_app.py)
+streamlit>=1.40
+plotly>=5.20
